@@ -80,6 +80,11 @@ article img {
     width: 300px;
 }
 
+video {
+    height: 197.875px;
+    width: 350px;
+}
+
 text{
     font-size: 5px;
     font-weight: bold;
