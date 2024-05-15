@@ -77,16 +77,16 @@ section {
 
 article img {
     height:300px;
-    width: 300px;
+    width: auto;
 }
 
 video {
     height: 197.875px;
-    width: 300px;
+    width: auto;
 }
 
 text{
-    font-size: 5px;
+    font-size: 10px;
     font-weight: bold;
 }
 
