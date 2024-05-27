@@ -76,14 +76,40 @@ section {
 }
 
 article img {
-    height:300px;
-    width: auto;
+  
+            width: 300%;
+            height: auto;
+        
 }
+        @media (min-width: 600px) 
+        article image {
+                width: 300%;
+        }
+        
+
+        @media (min-width: 1200px) 
+            article image {
+                width: 300%;
+        }
+        
+    
 
 video {
-    height: 197.875px;
-    width: auto;
+    width: 197.875%;
+            height: auto;
+        
 }
+        @media (min-width: 600px) 
+        video {
+                width: 187.875%;
+        }
+        
+
+        @media (min-width: 1200px) 
+            video {
+                width: 300%;
+        }
+
 
 text{
     font-size: 10px;
