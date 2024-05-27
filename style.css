@@ -77,19 +77,19 @@ section {
 
 article img {
   
-            width: 50%;
-            height: 60%;
+            width: 300%;
+            height: 300%;
         
 }
         @media (min-width: 600px) 
         article image {
-                width: 60%;
+                width: 300%;
         }
         
 
         @media (min-width: 1200px) 
             article image {
-                width: 60%;
+                width: 300%;
         }
         
     
