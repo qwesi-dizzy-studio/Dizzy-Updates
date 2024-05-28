@@ -95,19 +95,19 @@ article img {
     
 
 video {
-    width: 197.875%;
-            height: auto;
+    width: 90%;
+            height: 100%;
         
 }
         @media (min-width: 600px) 
         video {
-                width: 187.875%;
+                width: 90%;
         }
         
 
         @media (min-width: 1200px) 
             video {
-                width: 300%;
+                width: 90%;
         }
 
 
